@@ -1,0 +1,18 @@
+{
+    "orders": [
+        {
+            "buyer": "Ivan",
+            "date": "01.01.2000",
+            "item": "phone",
+            "price": 10000,
+            "quantity": 1
+        },
+        {
+            "buyer": "Egor",
+            "date": "01.02.2000",
+            "item": "printer",
+            "price": 15000,
+            "quantity": 1
+        }
+    ]
+}
